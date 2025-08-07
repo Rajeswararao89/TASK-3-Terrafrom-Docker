@@ -56,13 +56,14 @@ The task involves deploying an **NGINX web server** container and exposing it to
 
 ## 📸 Screenshots
 
-| Description                         | Preview                         |
-|-------------------------------------|----------------------------------|
-| `terraform apply` output            | ![Terraform Apply](screenshots/terraform-apply.png) |
-| Running Docker container (`ps`)     | ![Docker PS](screenshots/docker-ps.png)             |
-| `curl localhost:8080` (inside VM)   | ![Curl](screenshots/curl-localhost.png)            |
-| NGINX in Browser (`localhost:8080`) | ![Browser](screenshots/browser-nginx.png)          |
-| `terraform destroy` output          | ![Destroy](screenshots/terraform-destroy.png)      |
+| Step                     | Screenshot |
+|--------------------------|------------|
+| Terraform Apply Output   | ![Terraform Apply](screenshots/terraform%20apply.png) |
+| Docker Container Running | ![Docker PS](screenshots/running%20containers.png)     |
+| Curl Output              | ![Curl](screenshots/curl%20localhost8080.png)          |
+| NGINX in Browser         | ![NGINX](screenshots/NGINX%20in%20Browser.png)         |
+| Terraform Destroy Output| ![Destroy](screenshots/terraform%20destroy.png)        |
+
 
 ---
 
